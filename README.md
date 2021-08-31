@@ -24,3 +24,7 @@ pkg install perl
 pkg install wget
 
 git clone https://github.com/MD157/Private-Diablo
+
+cd Private-Diablo 
+
+bash private.sh 
