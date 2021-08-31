@@ -10,8 +10,6 @@ pkg install bash
 
 pkg install git -y
 
-pkg install bash 
-
 pkg install curl
 
 pkg install perl
