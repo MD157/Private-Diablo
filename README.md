@@ -2,6 +2,13 @@
 
 Bem vindo ao Private-Diablo!
 
+Requisitos:
+
+Internet
+
+Termux atualizado!
+------------------------------------------
+
 Pacotes para instalação 
 
 pkg update -y && pkg upgrade -y
